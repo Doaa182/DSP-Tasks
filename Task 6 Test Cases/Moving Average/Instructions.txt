@@ -1,0 +1,12 @@
+Test 1:
+
+Input Signal1
+Window size =3
+
+Test 2:
+
+Input Signal2
+Window size =5
+
+
+USE CompareSignals function to test your code
